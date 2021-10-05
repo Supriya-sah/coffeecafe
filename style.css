@@ -1,0 +1,82 @@
+html{
+    height: 100px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width:1024px;
+}
+body{
+    background-color: #b98f7a ;
+    background-image: url(rest/cafe3.jpg);
+    background-size:cover;
+    
+}
+header{
+
+    height:116px;
+    text-align: center;
+    
+    
+}
+nav{
+    background-color: rgba(184, 202, 202, 0.301);
+    height:40px;
+    text-align: center;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 23px;
+    padding-left: 10px;
+    padding-right: 12px;
+}
+main{
+    
+    height:400px;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    text-align: center;
+
+
+}
+footer{
+    background-color: rgba(82, 82, 94, 0.644);
+    height:60px;
+}
+h1{
+    font-size: 90px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 22px;
+    padding-left: 515px;
+    
+}
+p{
+    font-size: 24px;
+    color:white;
+    padding-right: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    font-size: 34px;
+    padding-left: 33px;
+}
+footer p{
+    font-size: 31px;
+    text-align: center;
+    color:rgb(10, 2, 2) ;
+    padding-left: 12px;
+    height:12px;
+}
+.here{
+    color: blanchedalmond;
+}
+.now{
+    color: blanchedalmond;
+}
